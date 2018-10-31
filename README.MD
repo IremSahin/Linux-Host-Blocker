@@ -10,3 +10,4 @@ This application needs for root priviliges for access to hosts file.
 Go to project folder in terminal and write `./run.sh`
 
 Burak Korman
+Irem Sahin
